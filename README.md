@@ -41,7 +41,7 @@ O código foi desenvolvido em **Python** usando conceitos aprendidos na discipli
 ### 2️⃣ Baixar o código
 Baixe o arquivo `hospital.py` ou clone o repositório no GitHub:
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/BrenoBICT/hospital
 
 Ao executar, você verá:
 --- Sistema de Atendimento Hospitalar ---
